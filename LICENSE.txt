@@ -1,0 +1,11 @@
+/**
+ * Copyright (C) Congzhou M Sha (cms6712@psu.edu, sha.mike2@gmail.com) - All Rights Reserved
+ * 
+ * This source code is protected under international copyright law.  All rights
+ * reserved and protected by the copyright holders.
+ * This file is confidential and only available to authorized individuals with the
+ * permission of the copyright holders.  If you encounter this file and do not have
+ * permission, please contact the copyright holders and delete this file.
+ */
+
+This page contains information relating to patent pending material. Any reproduction, adaptation, distribution, dissemination or making available of this software is not allowed unless authorized in writing by the patent holder.
