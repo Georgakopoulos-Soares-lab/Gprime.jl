@@ -1,5 +1,5 @@
 # GPrime v0.1
-Congzhou M Sha
+Copyright 2025 Congzhou M Sha
 
 License is in LICENSE.txt.
 
